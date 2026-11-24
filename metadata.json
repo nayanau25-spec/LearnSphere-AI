@@ -1,0 +1,8 @@
+{
+  "name": "LearnSphere AI",
+  "description": "Offline-first, explainable adaptive learning ecosystem designed for rural schools and low-connectivity communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
